@@ -1,0 +1,6 @@
+﻿services:
+  recrutoletsbefriends:
+    image: recrutoletsbefriends
+    build:
+      context: .
+      dockerfile: RecrutoLetsBeFriends/Dockerfile
